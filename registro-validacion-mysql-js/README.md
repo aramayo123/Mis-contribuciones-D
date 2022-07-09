@@ -1,6 +1,1 @@
-# Aprende a Diseñar Formularios Profesionales con CSS Grid!
-### [Tutorial: https://www.youtube.com/watch?v=cEKDyzoTXb4&feature=youtu.be](https://www.youtube.com/watch?v=cEKDyzoTXb4&feature=youtu.be
-
-![Aprende a Diseñar Formularios Profesionales con CSS Grid!](https://raw.githubusercontent.com/falconmasters/formulario-css-grid/master/img/thumb.png)
-
-Por: [FalconMasters](http://www.falconmasters.com)
+Este proyecto es parecido al de php, utilizo php para hacer el crud completo de una seccion de noticias, pero ademas el login y registro valida desde una base de datos, y hay una seccion especial donde se puede visualizar datos extras que solo puede verla un administrador con rol 1

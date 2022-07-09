@@ -1,1 +1,1 @@
-Este proyecto es parecido al de php, utilizo php para hacer el crud completo de una seccion de noticias, pero ademas el login y registro valida desde una base de datos, y hay una seccion especial donde se puede visualizar datos extras que solo puede verla un administrador con rol 1
+Este proyecto no es mio, simplemente es de un youtuber  [FalconMasters](http://www.falconmasters.com). Yo simplemente lo utilize para agregarle algunas validaciones de php como  "usuario ya registrado", "correo ya existente", "rellene todos los campos" y validaciones que se hacen desde mysql

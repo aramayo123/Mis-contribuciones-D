@@ -1,1 +1,2 @@
 este proyecto se trata de una seccion de noticias la cual recoge datos de una base de datos mysql  y un login muy sencillo utilizando variables de sesion de php, las cuales para validar o publicar necesita ingresar, la sesion no depende de una base de datos, procedo a dejar la base de datos de las noticias.
+archivo de configuracion de la base de datos de noticias: conexion.php
